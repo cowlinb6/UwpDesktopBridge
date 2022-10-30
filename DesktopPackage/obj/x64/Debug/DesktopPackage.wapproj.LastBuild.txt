@@ -1,0 +1,45 @@
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\SplashScreen.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\StoreLogo.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\bin\x64\Debug\resources.pri
+C:\Users\Ben\.nuget\packages\microsoft.extensions.configuration\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.configuration.abstractions\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.configuration.binder\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.logging\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.logging.abstractions\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.options\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\Ben\.nuget\packages\microsoft.extensions.primitives\2.1.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ben\.nuget\packages\nlog\5.0.5\lib\net46\NLog.dll
+C:\Users\Ben\.nuget\packages\nlog.extensions.logging\5.1.0\lib\net461\NLog.Extensions.Logging.dll
+C:\Users\Ben\.nuget\packages\system.buffers\4.4.0\lib\netstandard2.0\System.Buffers.dll
+C:\Users\Ben\.nuget\packages\system.memory\4.5.0\lib\netstandard2.0\System.Memory.dll
+C:\Users\Ben\.nuget\packages\system.numerics.vectors\4.4.0\lib\net46\System.Numerics.Vectors.dll
+C:\Users\Ben\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopApp\nlog.config
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\bin\x64\Debug\DesktopUwp.pdb
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\bin\x64\Debug\DesktopUwp.exe
+C:\Users\Ben\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Properties\Default.rd.xml
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\LockScreenLogo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\SplashScreen.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\Square150x150Logo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\Square44x44Logo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\StoreLogo.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\Assets\Wide310x150Logo.scale-200.png
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\bin\x64\Debug\DesktopUwp.xr.xml
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\bin\x64\Debug\App.xbf
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\bin\x64\Debug\MainPage.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\bin\x64\Debug\Core\DesktopUwp.exe

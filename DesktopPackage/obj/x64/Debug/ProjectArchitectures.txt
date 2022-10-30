@@ -1,0 +1,2 @@
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopPackage\DesktopPackage.wapproj;x64
+C:\Users\Ben\source\repos\cowlinb6\UwpDesktopBridge\DesktopUwp\DesktopUwp.csproj;x64
